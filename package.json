@@ -1,0 +1,25 @@
+{
+  "name": "@thiagoprz/striphtml",
+  "description": "Strip HTML angular pipe",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.2.4",
+    "@angular/core": "^11.2.4"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:thiagoprz/striphtml-pipe.git"
+  },
+  "author": "Thiago Przyczynski <przyczynski@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagoprz/striphtml-pipe/issues"
+  },
+  "homepage": "https://github.com/thiagoprz/striphtml-pipe#readme"
+}
